@@ -3,4 +3,4 @@ Creating a new branck is quick.
 Modified something in master branch.
 Make some work in dev branch.
 Let me try to use fast forward to merge.
-
+reset HEAD will not modify workspace?
