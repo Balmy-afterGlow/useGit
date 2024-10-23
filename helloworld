@@ -7,4 +7,5 @@ reset HEAD will not modify workspace?
 if i do not commit, can i create a new branch?
 in new branch work something but no commit, may pollute all branch git status.
 try to switch branch when not commit.
+try again.
 
