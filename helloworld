@@ -9,4 +9,5 @@ in new branch work something but no commit, may pollute all branch git status.
 try to switch branch when not commit. <make some change>
 try again.
 start at dev.
+use git stash.
 
