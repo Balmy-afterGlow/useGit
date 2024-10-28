@@ -1,3 +1,5 @@
 # myProject:
 *.bak
 
+!hello.bak
+
